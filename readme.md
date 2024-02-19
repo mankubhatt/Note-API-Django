@@ -2,6 +2,8 @@
 
 To perform CRUD operations on the note.
 
+## Try it on - https://notes-django-7tua.onrender.com/swagger/
+
 ## Installation
 
 1. Clone the repository:
